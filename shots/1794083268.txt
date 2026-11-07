@@ -1,0 +1,1 @@
+--tp shot_1794083268 --time 150 --opt blink --opt still
